@@ -76,7 +76,7 @@
     [super viewDidLoad];
     self.navigationController.navigationBar.translucent = NO ;
     self.view.backgroundColor = [UIColor whiteColor];
-    self.navigationItem.title = @"美食美食美食美食美食美食美食美食美食美食";
+    self.navigationItem.title = @"妹妹";
     [self gettableView];
     
     
